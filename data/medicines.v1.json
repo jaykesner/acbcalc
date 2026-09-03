@@ -1,0 +1,1996 @@
+{
+  "version": "1",
+  "updatedAt": "2026-09-03",
+  "methodology": "Combined Anticholinergic Cognitive Burden (ACB) Scale and German Anticholinergic Burden Scale (GABS). Where scales disagreed, the higher score was used in the interest of safety.",
+  "medicines": [
+    {
+      "id": "alimemazine",
+      "generic": "Alimemazine",
+      "brands": [
+        "Theralen",
+        "Alfrased",
+        "Itzenal"
+      ],
+      "score": 1,
+      "class": "antihistamines"
+    },
+    {
+      "id": "alprazolam",
+      "generic": "Alprazolam",
+      "brands": [
+        "Xanax"
+      ],
+      "score": 1,
+      "class": "benzodiazepines",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "alverine",
+      "generic": "Alverine",
+      "brands": [
+        "Spasmonal",
+        "Audmonal"
+      ],
+      "score": 1
+    },
+    {
+      "id": "amantadine",
+      "generic": "Amantadine",
+      "brands": [
+        "Symmetrel"
+      ],
+      "score": 1,
+      "class": "antiparkinson",
+      "acbScore": 2,
+      "gabsScore": 1
+    },
+    {
+      "id": "aminophylline",
+      "generic": "Aminophylline",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "amitriptyline",
+      "generic": "Amitriptyline",
+      "brands": [
+        "Elavil"
+      ],
+      "score": 3,
+      "class": "antidepressants",
+      "acbScore": 3,
+      "gabsScore": 3,
+      "alternatives": [
+        {
+          "label": "For depression",
+          "items": [
+            "SSRIs (citalopram, sertraline)",
+            "SNRIs (duloxetine, venlafaxine)",
+            "Lifestyle / psychological therapies"
+          ]
+        },
+        {
+          "label": "For pain",
+          "items": [
+            "Physiotherapy",
+            "Heat/ice",
+            "Stretching",
+            "Gabapentin",
+            "Duloxetine"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amoxapine",
+      "generic": "Amoxapine",
+      "brands": [
+        "Asendin"
+      ],
+      "score": 3,
+      "class": "antidepressants"
+    },
+    {
+      "id": "ampicillin",
+      "generic": "Ampicillin",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "aripiprazole",
+      "generic": "Aripiprazole",
+      "brands": [
+        "Abilify",
+        "Arpoya"
+      ],
+      "score": 1,
+      "class": "antipsychotics",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "asenapine",
+      "generic": "Asenapine",
+      "brands": [
+        "Saphris"
+      ],
+      "score": 1,
+      "class": "antipsychotics"
+    },
+    {
+      "id": "atropine",
+      "generic": "Atropine",
+      "brands": [
+        "Sal-Tropine"
+      ],
+      "score": 3,
+      "class": "antispasmodics",
+      "acbScore": 3,
+      "gabsScore": 3
+    },
+    {
+      "id": "azatadine",
+      "generic": "Azatadine",
+      "brands": [
+        "Optimine"
+      ],
+      "score": 3,
+      "class": "antihistamines"
+    },
+    {
+      "id": "azelastine-nasal",
+      "generic": "Azelastine nasal",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "azelastine-ophthalmic",
+      "generic": "Azelastine ophthalmic",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "barberry",
+      "generic": "Barberry",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "belladonna",
+      "generic": "Belladonna",
+      "brands": [],
+      "score": 3,
+      "class": "antispasmodics"
+    },
+    {
+      "id": "benztropine",
+      "generic": "Benztropine",
+      "brands": [
+        "Cogentin"
+      ],
+      "score": 3,
+      "class": "antiparkinson",
+      "acbScore": 3,
+      "gabsScore": 3
+    },
+    {
+      "id": "biperiden",
+      "generic": "Biperiden",
+      "brands": [],
+      "score": 3,
+      "class": "antiparkinson"
+    },
+    {
+      "id": "bromocriptine",
+      "generic": "Bromocriptine",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "brompheniramine",
+      "generic": "Brompheniramine",
+      "brands": [
+        "Dimetapp",
+        "Bromfed",
+        "Bromfenax",
+        "Dimetane",
+        "Lodrone"
+      ],
+      "score": 3,
+      "class": "antihistamines"
+    },
+    {
+      "id": "buclizine",
+      "generic": "Buclizine",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "bupropion",
+      "generic": "Bupropion",
+      "brands": [
+        "Wellbutrin",
+        "Zyban"
+      ],
+      "score": 1,
+      "class": "antidepressants",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "captopril",
+      "generic": "Captopril",
+      "brands": [
+        "Capoten"
+      ],
+      "score": 1,
+      "class": "cardiovascular"
+    },
+    {
+      "id": "carbidopa-levodopa",
+      "generic": "Carbidopa-levodopa",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "carbinoxamine",
+      "generic": "Carbinoxamine",
+      "brands": [
+        "Histex",
+        "Carbihist"
+      ],
+      "score": 3,
+      "class": "antihistamines"
+    },
+    {
+      "id": "cefamandole",
+      "generic": "Cefamandole",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "cefoxitin",
+      "generic": "Cefoxitin",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "celecoxib",
+      "generic": "Celecoxib",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "cephalothin",
+      "generic": "Cephalothin",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "cetirizine",
+      "generic": "Cetirizine",
+      "brands": [
+        "Zyrtec"
+      ],
+      "score": 1,
+      "class": "antihistamines",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "chlordiazepoxide",
+      "generic": "Chlordiazepoxide",
+      "brands": [],
+      "score": 1,
+      "class": "benzodiazepines"
+    },
+    {
+      "id": "chloroquine",
+      "generic": "Chloroquine",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "chlorphenamine",
+      "generic": "Chlorphenamine",
+      "brands": [
+        "Piriton",
+        "Chlorpheniramine",
+        "Chlor-Trimeton"
+      ],
+      "score": 3,
+      "class": "antihistamines",
+      "acbScore": 3,
+      "gabsScore": 3,
+      "alternatives": [
+        {
+          "label": "Non-sedating antihistamines",
+          "items": [
+            "Loratadine",
+            "Fexofenadine",
+            "Cetirizine"
+          ]
+        },
+        {
+          "label": "Non-drug options",
+          "items": [
+            "Nasal corticosteroid sprays",
+            "Allergen avoidance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chlorpromazine",
+      "generic": "Chlorpromazine",
+      "brands": [
+        "Thorazine"
+      ],
+      "score": 3,
+      "class": "antipsychotics",
+      "acbScore": 3,
+      "gabsScore": 3
+    },
+    {
+      "id": "chlorprothixene",
+      "generic": "Chlorprothixene",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "chlortalidone",
+      "generic": "Chlortalidone",
+      "brands": [
+        "Hygroton",
+        "Chlorthalidone"
+      ],
+      "score": 1
+    },
+    {
+      "id": "ciclosporin",
+      "generic": "Ciclosporin",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "cimetidine",
+      "generic": "Cimetidine",
+      "brands": [
+        "Tagamet"
+      ],
+      "score": 1,
+      "acbScore": 1,
+      "gabsScore": 2
+    },
+    {
+      "id": "cinnarizine",
+      "generic": "Cinnarizine",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "citalopram",
+      "generic": "Citalopram",
+      "brands": [],
+      "score": 1,
+      "class": "antidepressants"
+    },
+    {
+      "id": "clemastine",
+      "generic": "Clemastine",
+      "brands": [
+        "Tavist"
+      ],
+      "score": 3,
+      "class": "antihistamines",
+      "alternatives": [
+        {
+          "label": "Non-sedating antihistamines",
+          "items": [
+            "Fexofenadine",
+            "Loratadine",
+            "Cetirizine"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clidinium",
+      "generic": "Clidinium",
+      "brands": [
+        "Librax"
+      ],
+      "score": 3
+    },
+    {
+      "id": "clindamycin",
+      "generic": "Clindamycin",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "clomipramine",
+      "generic": "Clomipramine",
+      "brands": [
+        "Anafranil"
+      ],
+      "score": 3,
+      "class": "antidepressants",
+      "acbScore": 3,
+      "gabsScore": 3
+    },
+    {
+      "id": "clonazepam",
+      "generic": "Clonazepam",
+      "brands": [],
+      "score": 1,
+      "class": "benzodiazepines",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "clorazepate",
+      "generic": "Clorazepate",
+      "brands": [
+        "Tranxene"
+      ],
+      "score": 1
+    },
+    {
+      "id": "clozapine",
+      "generic": "Clozapine",
+      "brands": [
+        "Clozaril"
+      ],
+      "score": 3,
+      "class": "antipsychotics",
+      "acbScore": 3,
+      "gabsScore": 3
+    },
+    {
+      "id": "corticosterone",
+      "generic": "Corticosterone",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "cortisone",
+      "generic": "Cortisone",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "cyclizine",
+      "generic": "Cyclizine",
+      "brands": [],
+      "score": 3,
+      "class": "nausea_vomiting",
+      "alternatives": [
+        {
+          "label": "Antiemetic alternatives",
+          "items": [
+            "Domperidone",
+            "Metoclopramide",
+            "Ondansetron (indication-dependent)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cyclobenzaprine",
+      "generic": "Cyclobenzaprine",
+      "brands": [
+        "Flexeril"
+      ],
+      "score": 3,
+      "class": "muscle_relaxants",
+      "acbScore": 2,
+      "gabsScore": 3
+    },
+    {
+      "id": "cycloserine",
+      "generic": "Cycloserine",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "cyclosporine",
+      "generic": "Cyclosporine",
+      "brands": [
+        "Ciclosporin"
+      ],
+      "score": 1
+    },
+    {
+      "id": "cyproheptadine",
+      "generic": "Cyproheptadine",
+      "brands": [
+        "Periactin"
+      ],
+      "score": 3,
+      "class": "antihistamines",
+      "acbScore": 2,
+      "gabsScore": 3
+    },
+    {
+      "id": "darifenacin",
+      "generic": "Darifenacin",
+      "brands": [
+        "Enablex"
+      ],
+      "score": 3,
+      "class": "urinary_incontinence",
+      "acbScore": 3,
+      "gabsScore": 3,
+      "alternatives": [
+        {
+          "label": "Consider",
+          "items": [
+            "Mirabegron",
+            "Non-pharmacological continence measures"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "desipramine",
+      "generic": "Desipramine",
+      "brands": [
+        "Norpramin"
+      ],
+      "score": 3,
+      "class": "antidepressants",
+      "acbScore": 2,
+      "gabsScore": 3
+    },
+    {
+      "id": "desloratadine",
+      "generic": "Desloratadine",
+      "brands": [
+        "Clarinex"
+      ],
+      "score": 1,
+      "class": "antihistamines"
+    },
+    {
+      "id": "desvenlafaxine",
+      "generic": "Desvenlafaxine",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "dexamethasone",
+      "generic": "Dexamethasone",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "dexbrompheniramine",
+      "generic": "Dexbrompheniramine",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "dexchlorpheniramine",
+      "generic": "Dexchlorpheniramine",
+      "brands": [],
+      "score": 3,
+      "class": "antihistamines"
+    },
+    {
+      "id": "dextromethorphan",
+      "generic": "Dextromethorphan",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "diazepam",
+      "generic": "Diazepam",
+      "brands": [
+        "Valium"
+      ],
+      "score": 1,
+      "class": "benzodiazepines",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "dicycloverine",
+      "generic": "Dicycloverine",
+      "brands": [
+        "Bentyl",
+        "Dicyclomine"
+      ],
+      "score": 3
+    },
+    {
+      "id": "digitoxin",
+      "generic": "Digitoxin",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "digoxin",
+      "generic": "Digoxin",
+      "brands": [
+        "Lanoxin"
+      ],
+      "score": 1,
+      "class": "cardiovascular",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "dimenhydrinate",
+      "generic": "Dimenhydrinate",
+      "brands": [
+        "Dramamine"
+      ],
+      "score": 3,
+      "class": "antihistamines",
+      "acbScore": 3,
+      "gabsScore": 3
+    },
+    {
+      "id": "dimetindene",
+      "generic": "Dimetindene",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "diphenhydramine",
+      "generic": "Diphenhydramine",
+      "brands": [
+        "Benadryl",
+        "Nytol",
+        "Sleepeaze"
+      ],
+      "score": 3,
+      "class": "antihistamines",
+      "acbScore": 3,
+      "gabsScore": 3,
+      "alternatives": [
+        {
+          "label": "For allergy",
+          "items": [
+            "Loratadine",
+            "Fexofenadine",
+            "Cetirizine"
+          ]
+        },
+        {
+          "label": "For insomnia",
+          "items": [
+            "Sleep hygiene",
+            "CBT-I",
+            "Consider non-anticholinergic options per local guidance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diphenhydramine-cream",
+      "generic": "Diphenhydramine cream",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "disopyramide",
+      "generic": "Disopyramide",
+      "brands": [
+        "Norpace"
+      ],
+      "score": 2
+    },
+    {
+      "id": "domperidone",
+      "generic": "Domperidone",
+      "brands": [
+        "Motilium"
+      ],
+      "score": 0,
+      "class": "nausea_vomiting",
+      "acbScore": 0,
+      "gabsScore": 0
+    },
+    {
+      "id": "dosulepin",
+      "generic": "Dosulepin",
+      "brands": [
+        "dothiepin"
+      ],
+      "score": 3
+    },
+    {
+      "id": "doxepin",
+      "generic": "Doxepin",
+      "brands": [
+        "Sinequan"
+      ],
+      "score": 3,
+      "class": "antidepressants",
+      "acbScore": 3,
+      "gabsScore": 3,
+      "alternatives": [
+        {
+          "label": "Alternatives",
+          "items": [
+            "SSRIs",
+            "SNRIs",
+            "Non-anticholinergic sleep strategies if used for insomnia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doxylamine",
+      "generic": "Doxylamine",
+      "brands": [
+        "Unisom"
+      ],
+      "score": 3
+    },
+    {
+      "id": "duloxetine",
+      "generic": "Duloxetine",
+      "brands": [
+        "Cymbalta"
+      ],
+      "score": 0,
+      "class": "antidepressants",
+      "acbScore": 0,
+      "gabsScore": 0
+    },
+    {
+      "id": "entacapone",
+      "generic": "Entacapone",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "ergotamine",
+      "generic": "Ergotamine",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "escitalopram",
+      "generic": "Escitalopram",
+      "brands": [
+        "Lexapro"
+      ],
+      "score": 1,
+      "class": "antidepressants"
+    },
+    {
+      "id": "etoricoxib",
+      "generic": "Etoricoxib",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "fentanyl",
+      "generic": "Fentanyl",
+      "brands": [
+        "Duragesic",
+        "Actiq"
+      ],
+      "score": 1,
+      "class": "analgesics",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "fentanyl-topical",
+      "generic": "Fentanyl topical",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "fesoterodine",
+      "generic": "Fesoterodine",
+      "brands": [
+        "Toviaz"
+      ],
+      "score": 3,
+      "class": "urinary_incontinence",
+      "acbScore": 3,
+      "gabsScore": 3,
+      "alternatives": [
+        {
+          "label": "Consider",
+          "items": [
+            "Mirabegron",
+            "Non-pharmacological continence measures"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fexofenadine",
+      "generic": "Fexofenadine",
+      "brands": [
+        "Allegra",
+        "Telfast"
+      ],
+      "score": 0,
+      "class": "antihistamines",
+      "acbScore": 0,
+      "gabsScore": 0
+    },
+    {
+      "id": "flavoxate",
+      "generic": "Flavoxate",
+      "brands": [
+        "Urispas"
+      ],
+      "score": 3,
+      "class": "urinary_incontinence"
+    },
+    {
+      "id": "flunitrazepam",
+      "generic": "Flunitrazepam",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "fluoxetine",
+      "generic": "Fluoxetine",
+      "brands": [],
+      "score": 1,
+      "class": "antidepressants",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "fluphenazine",
+      "generic": "Fluphenazine",
+      "brands": [],
+      "score": 1,
+      "class": "antipsychotics"
+    },
+    {
+      "id": "flurazepam",
+      "generic": "Flurazepam",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "fluvoxamine",
+      "generic": "Fluvoxamine",
+      "brands": [
+        "Luvox"
+      ],
+      "score": 1,
+      "class": "antidepressants"
+    },
+    {
+      "id": "gabapentin",
+      "generic": "Gabapentin",
+      "brands": [
+        "Neurontin"
+      ],
+      "score": 0,
+      "class": "analgesics",
+      "acbScore": 0,
+      "gabsScore": 0
+    },
+    {
+      "id": "gentamicin",
+      "generic": "Gentamicin",
+      "brands": [
+        "Gentamycin"
+      ],
+      "score": 1
+    },
+    {
+      "id": "glycopyrronium-inhaled",
+      "generic": "Glycopyrronium - inhaled",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "glycopyrronium-injectable",
+      "generic": "Glycopyrronium injectable",
+      "brands": [
+        "Glycopyrrolate"
+      ],
+      "score": 3
+    },
+    {
+      "id": "guaifenesin",
+      "generic": "Guaifenesin",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "haloperidol",
+      "generic": "Haloperidol",
+      "brands": [
+        "Haldol"
+      ],
+      "score": 1,
+      "class": "antipsychotics",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "homatropine",
+      "generic": "Homatropine",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "homatropine-ophthalmic",
+      "generic": "Homatropine ophthalmic",
+      "brands": [],
+      "score": 2
+    },
+    {
+      "id": "hydralazine",
+      "generic": "Hydralazine",
+      "brands": [
+        "Apresoline"
+      ],
+      "score": 1
+    },
+    {
+      "id": "hydrocortisone",
+      "generic": "Hydrocortisone",
+      "brands": [
+        "Cortef",
+        "Cortaid"
+      ],
+      "score": 1
+    },
+    {
+      "id": "hydroxyzine",
+      "generic": "Hydroxyzine",
+      "brands": [
+        "Atarax",
+        "Vistaril"
+      ],
+      "score": 1,
+      "class": "antihistamines",
+      "acbScore": 3,
+      "gabsScore": 1,
+      "alternatives": [
+        {
+          "label": "Alternatives",
+          "items": [
+            "Loratadine",
+            "Fexofenadine",
+            "Non-drug anxiety approaches"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyoscine-butylbromide",
+      "generic": "Hyoscine butylbromide",
+      "brands": [
+        "butylscopolamine"
+      ],
+      "score": 3
+    },
+    {
+      "id": "hyoscine-hydrobromide",
+      "generic": "Hyoscine hydrobromide",
+      "brands": [
+        "Kwells",
+        "Scopoderm",
+        "Joy-rides",
+        "Travel Calm",
+        "Scopolamine"
+      ],
+      "score": 3
+    },
+    {
+      "id": "hyoscyamine",
+      "generic": "Hyoscyamine",
+      "brands": [
+        "Anaspaz",
+        "Levsin"
+      ],
+      "score": 3,
+      "class": "antispasmodics",
+      "acbScore": 3,
+      "gabsScore": 3
+    },
+    {
+      "id": "iloperidone",
+      "generic": "Iloperidone",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "imipramine",
+      "generic": "Imipramine",
+      "brands": [
+        "Tofranil"
+      ],
+      "score": 3,
+      "class": "antidepressants",
+      "acbScore": 3,
+      "gabsScore": 3,
+      "alternatives": [
+        {
+          "label": "For depression",
+          "items": [
+            "SSRIs",
+            "SNRIs",
+            "Psychological therapies"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ipratropium",
+      "generic": "Ipratropium",
+      "brands": [],
+      "score": 1,
+      "class": "respiratory"
+    },
+    {
+      "id": "ipratropium-nasal",
+      "generic": "Ipratropium nasal",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "isosorbide",
+      "generic": "Isosorbide",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "isosorbide-dinitrate",
+      "generic": "Isosorbide dinitrate",
+      "brands": [
+        "Isordil"
+      ],
+      "score": 1
+    },
+    {
+      "id": "isosorbide-mononitrate",
+      "generic": "Isosorbide mononitrate",
+      "brands": [
+        "Ismo"
+      ],
+      "score": 1
+    },
+    {
+      "id": "ketamine",
+      "generic": "Ketamine",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "ketotifen-ophthalmic",
+      "generic": "Ketotifen ophthalmic",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "lansoprazole",
+      "generic": "Lansoprazole",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "levocetirizine",
+      "generic": "Levocetirizine",
+      "brands": [
+        "Xyzal"
+      ],
+      "score": 1
+    },
+    {
+      "id": "levodopa",
+      "generic": "Levodopa",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "levomepromazine",
+      "generic": "Levomepromazine",
+      "brands": [],
+      "score": 3,
+      "class": "nausea_vomiting",
+      "alternatives": [
+        {
+          "label": "Antiemetic alternatives",
+          "items": [
+            "Domperidone",
+            "Metoclopramide",
+            "Specialist advice for palliative indications"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lithium",
+      "generic": "Lithium",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "loperamide",
+      "generic": "Loperamide",
+      "brands": [
+        "Immodium"
+      ],
+      "score": 1
+    },
+    {
+      "id": "loratadine",
+      "generic": "Loratadine",
+      "brands": [
+        "Claritin"
+      ],
+      "score": 1,
+      "class": "antihistamines",
+      "acbScore": 1,
+      "gabsScore": 0
+    },
+    {
+      "id": "lorazepam",
+      "generic": "Lorazepam",
+      "brands": [
+        "Ativan"
+      ],
+      "score": 1,
+      "class": "benzodiazepines",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "loxapine",
+      "generic": "Loxapine",
+      "brands": [
+        "Loxitane"
+      ],
+      "score": 2
+    },
+    {
+      "id": "maprotiline",
+      "generic": "Maprotiline",
+      "brands": [],
+      "score": 2,
+      "class": "antidepressants"
+    },
+    {
+      "id": "meclizine",
+      "generic": "Meclizine",
+      "brands": [
+        "Antivert"
+      ],
+      "score": 1,
+      "class": "antihistamines",
+      "acbScore": 3,
+      "gabsScore": 1
+    },
+    {
+      "id": "mesoridazine",
+      "generic": "Mesoridazine",
+      "brands": [],
+      "score": 2
+    },
+    {
+      "id": "metformin",
+      "generic": "Metformin",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "methadone",
+      "generic": "Methadone",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "methocarbamol",
+      "generic": "Methocarbamol",
+      "brands": [
+        "Robaxin"
+      ],
+      "score": 3,
+      "class": "muscle_relaxants"
+    },
+    {
+      "id": "methotrimeprazine",
+      "generic": "Methotrimeprazine",
+      "brands": [
+        "Levoprome"
+      ],
+      "score": 2
+    },
+    {
+      "id": "methscopolamine",
+      "generic": "Methscopolamine",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "methylprednisolone",
+      "generic": "Methylprednisolone",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "metoclopramide",
+      "generic": "Metoclopramide",
+      "brands": [
+        "Maxolon"
+      ],
+      "score": 0,
+      "class": "nausea_vomiting",
+      "acbScore": 0,
+      "gabsScore": 0
+    },
+    {
+      "id": "midazolam",
+      "generic": "Midazolam",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "mirabegron",
+      "generic": "Mirabegron",
+      "brands": [
+        "Betmiga",
+        "Myrbetriq"
+      ],
+      "score": 0,
+      "class": "urinary_incontinence",
+      "acbScore": 0,
+      "gabsScore": 0
+    },
+    {
+      "id": "mirtazapine",
+      "generic": "Mirtazapine",
+      "brands": [],
+      "score": 1,
+      "class": "antidepressants",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "morphine",
+      "generic": "Morphine",
+      "brands": [
+        "MS Contin",
+        "Avinza",
+        "Zomorph"
+      ],
+      "score": 1,
+      "class": "analgesics",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "nalbuphine",
+      "generic": "Nalbuphine",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "naratriptan",
+      "generic": "Naratriptan",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "nefopam",
+      "generic": "Nefopam",
+      "brands": [
+        "Nefogesic"
+      ],
+      "score": 2
+    },
+    {
+      "id": "neomycin",
+      "generic": "Neomycin",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "nitrazepam",
+      "generic": "Nitrazepam",
+      "brands": [],
+      "score": 1,
+      "class": "benzodiazepines"
+    },
+    {
+      "id": "nizatidine",
+      "generic": "Nizatidine",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "nortriptyline",
+      "generic": "Nortriptyline",
+      "brands": [
+        "Pamelor"
+      ],
+      "score": 3,
+      "class": "antidepressants",
+      "acbScore": 2,
+      "gabsScore": 3,
+      "alternatives": [
+        {
+          "label": "Alternatives",
+          "items": [
+            "SSRIs",
+            "SNRIs",
+            "Indication-specific non-TCA options"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olanzapine",
+      "generic": "Olanzapine",
+      "brands": [
+        "Zyprexa"
+      ],
+      "score": 3,
+      "class": "antipsychotics",
+      "acbScore": 3,
+      "gabsScore": 2
+    },
+    {
+      "id": "olopatadine-ophthalmic",
+      "generic": "Olopatadine ophthalmic",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "omeprazole",
+      "generic": "Omeprazole",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "ondansetron",
+      "generic": "Ondansetron",
+      "brands": [
+        "Zofran"
+      ],
+      "score": 0,
+      "class": "nausea_vomiting",
+      "acbScore": 0,
+      "gabsScore": 0
+    },
+    {
+      "id": "opipramol",
+      "generic": "Opipramol",
+      "brands": [],
+      "score": 2
+    },
+    {
+      "id": "orphenadrine",
+      "generic": "Orphenadrine",
+      "brands": [
+        "Norflex"
+      ],
+      "score": 3,
+      "class": "muscle_relaxants",
+      "acbScore": 3,
+      "gabsScore": 3
+    },
+    {
+      "id": "oxazepam",
+      "generic": "Oxazepam",
+      "brands": [],
+      "score": 1,
+      "class": "benzodiazepines"
+    },
+    {
+      "id": "oxybutynin",
+      "generic": "Oxybutynin",
+      "brands": [
+        "Ditropan"
+      ],
+      "score": 3,
+      "class": "urinary_incontinence",
+      "acbScore": 3,
+      "gabsScore": 3,
+      "alternatives": [
+        {
+          "label": "Non-pharmacological",
+          "items": [
+            "Pelvic floor exercises",
+            "Bladder training",
+            "Fluid timing"
+          ]
+        },
+        {
+          "label": "Pharmacological (lower CNS penetration / alternatives)",
+          "items": [
+            "Mirabegron",
+            "Trospium",
+            "Solifenacin",
+            "Tolterodine"
+          ]
+        },
+        {
+          "label": "Note",
+          "items": [
+            "Oxybutynin crosses the blood\u2013brain barrier readily; prefer agents with lower CNS penetration when possible."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oxycodone",
+      "generic": "Oxycodone",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "pancuronium",
+      "generic": "Pancuronium",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "pantoprazole",
+      "generic": "Pantoprazole",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "paracetamol",
+      "generic": "Paracetamol",
+      "brands": [
+        "Acetaminophen",
+        "Tylenol",
+        "Panadol"
+      ],
+      "score": 0,
+      "class": "analgesics",
+      "acbScore": 0,
+      "gabsScore": 0
+    },
+    {
+      "id": "paroxetine",
+      "generic": "Paroxetine",
+      "brands": [
+        "Paxil"
+      ],
+      "score": 3,
+      "class": "antidepressants",
+      "acbScore": 3,
+      "gabsScore": 2,
+      "alternatives": [
+        {
+          "label": "SSRI alternatives (lower ACB)",
+          "items": [
+            "Sertraline",
+            "Citalopram",
+            "Escitalopram"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pericyazine",
+      "generic": "Pericyazine",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "perphenazine",
+      "generic": "Perphenazine",
+      "brands": [
+        "Trilafon"
+      ],
+      "score": 2,
+      "class": "antipsychotics",
+      "acbScore": 3,
+      "gabsScore": 2
+    },
+    {
+      "id": "pethidine",
+      "generic": "Pethidine",
+      "brands": [
+        "Demerol",
+        "Meperidine"
+      ],
+      "score": 2,
+      "class": "analgesics"
+    },
+    {
+      "id": "phenelzine",
+      "generic": "Phenelzine",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "phenindamine",
+      "generic": "Phenindamine",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "pheniramine",
+      "generic": "Pheniramine",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "pheniramine-ophthalmic",
+      "generic": "Pheniramine ophthalmic",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "phenobarbitol",
+      "generic": "Phenobarbitol",
+      "brands": [
+        "phenobarbital"
+      ],
+      "score": 1
+    },
+    {
+      "id": "phenyltoloxamine",
+      "generic": "Phenyltoloxamine",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "pimozide",
+      "generic": "Pimozide",
+      "brands": [
+        "Orap"
+      ],
+      "score": 2
+    },
+    {
+      "id": "piperacillin",
+      "generic": "Piperacillin",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "pramipexole",
+      "generic": "Pramipexole",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "prednisolone",
+      "generic": "Prednisolone",
+      "brands": [
+        "Deltasone",
+        "Sterapred",
+        "Prednisone"
+      ],
+      "score": 1,
+      "class": "corticosteroids"
+    },
+    {
+      "id": "procainamide",
+      "generic": "Procainamide",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "prochlorperazine",
+      "generic": "Prochlorperazine",
+      "brands": [],
+      "score": 1,
+      "class": "nausea_vomiting",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "procyclidine",
+      "generic": "Procyclidine",
+      "brands": [],
+      "score": 3,
+      "class": "antiparkinson"
+    },
+    {
+      "id": "promethazine",
+      "generic": "Promethazine",
+      "brands": [
+        "Phenergan"
+      ],
+      "score": 3,
+      "class": "antihistamines",
+      "acbScore": 3,
+      "gabsScore": 3,
+      "alternatives": [
+        {
+          "label": "Alternatives",
+          "items": [
+            "Non-sedating antihistamines",
+            "Domperidone or other antiemetics per formulary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "propantheline",
+      "generic": "Propantheline",
+      "brands": [
+        "Pro-Banthine"
+      ],
+      "score": 3,
+      "class": "antispasmodics"
+    },
+    {
+      "id": "propiverine",
+      "generic": "Propiverine",
+      "brands": [
+        "Detrunorm"
+      ],
+      "score": 3,
+      "class": "urinary_incontinence"
+    },
+    {
+      "id": "protriptyline",
+      "generic": "Protriptyline",
+      "brands": [],
+      "score": 3,
+      "class": "antidepressants"
+    },
+    {
+      "id": "pyrilamine",
+      "generic": "Pyrilamine",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "quetiapine",
+      "generic": "Quetiapine",
+      "brands": [
+        "Seroquel"
+      ],
+      "score": 3,
+      "class": "antipsychotics",
+      "acbScore": 3,
+      "gabsScore": 2
+    },
+    {
+      "id": "quinidine",
+      "generic": "Quinidine",
+      "brands": [
+        "Quinaglute"
+      ],
+      "score": 1
+    },
+    {
+      "id": "ranitidine",
+      "generic": "Ranitidine",
+      "brands": [
+        "Zantac"
+      ],
+      "score": 1,
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "risperidone",
+      "generic": "Risperidone",
+      "brands": [
+        "Risperdal"
+      ],
+      "score": 1,
+      "class": "antipsychotics",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "rotigotine",
+      "generic": "Rotigotine",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "scopolamine",
+      "generic": "Scopolamine",
+      "brands": [],
+      "score": 3,
+      "class": "antispasmodics",
+      "acbScore": 3,
+      "gabsScore": 3
+    },
+    {
+      "id": "scopolamine-topical",
+      "generic": "Scopolamine topical",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "selegiline",
+      "generic": "Selegiline",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "sertraline",
+      "generic": "Sertraline",
+      "brands": [
+        "Zoloft"
+      ],
+      "score": 1,
+      "class": "antidepressants",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "solifenacin",
+      "generic": "Solifenacin",
+      "brands": [
+        "Vesicare"
+      ],
+      "score": 3,
+      "class": "urinary_incontinence",
+      "acbScore": 3,
+      "gabsScore": 3,
+      "alternatives": [
+        {
+          "label": "Consider",
+          "items": [
+            "Mirabegron",
+            "Non-pharmacological continence measures"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sumatriptan",
+      "generic": "Sumatriptan",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "temazepam",
+      "generic": "Temazepam.",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "theophylline",
+      "generic": "Theophylline",
+      "brands": [
+        "Theodur",
+        "Uniphyl"
+      ],
+      "score": 1,
+      "class": "respiratory",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "thioridazine",
+      "generic": "Thioridazine",
+      "brands": [
+        "Mellaril"
+      ],
+      "score": 3,
+      "class": "antipsychotics",
+      "acbScore": 3,
+      "gabsScore": 3
+    },
+    {
+      "id": "tiagabine",
+      "generic": "Tiagabine",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "tiotropium",
+      "generic": "Tiotropium",
+      "brands": [],
+      "score": 1,
+      "class": "respiratory"
+    },
+    {
+      "id": "tobramycin",
+      "generic": "Tobramycin",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "tolterodine",
+      "generic": "Tolterodine",
+      "brands": [
+        "Detrol"
+      ],
+      "score": 3,
+      "class": "urinary_incontinence",
+      "acbScore": 3,
+      "gabsScore": 2,
+      "alternatives": [
+        {
+          "label": "Consider",
+          "items": [
+            "Mirabegron",
+            "Trospium",
+            "Non-pharmacological continence measures"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tramadol",
+      "generic": "Tramadol",
+      "brands": [],
+      "score": 2,
+      "class": "analgesics",
+      "acbScore": 1,
+      "gabsScore": 1,
+      "alternatives": [
+        {
+          "label": "Non-drug options",
+          "items": [
+            "Physiotherapy",
+            "Massage",
+            "Stretching",
+            "Heat/ice"
+          ]
+        },
+        {
+          "label": "Pharmacological",
+          "items": [
+            "Paracetamol",
+            "Other analgesics per WHO ladder / formulary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trandolapril",
+      "generic": "Trandolapril",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "tranylcypromine",
+      "generic": "Tranylcypromine",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "triamcinolone",
+      "generic": "Triamcinolone",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "triamterene",
+      "generic": "Triamterene",
+      "brands": [
+        "Dyrenium"
+      ],
+      "score": 1
+    },
+    {
+      "id": "triazolam",
+      "generic": "Triazolam",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "trifluoperazine",
+      "generic": "Trifluoperazine",
+      "brands": [
+        "Stelazine"
+      ],
+      "score": 2,
+      "class": "antipsychotics",
+      "acbScore": 3,
+      "gabsScore": 2
+    },
+    {
+      "id": "triflupromazine",
+      "generic": "Triflupromazine",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "trihexyphenidyl",
+      "generic": "Trihexyphenidyl",
+      "brands": [
+        "Artane"
+      ],
+      "score": 3,
+      "class": "antiparkinson",
+      "acbScore": 3,
+      "gabsScore": 3
+    },
+    {
+      "id": "trimethobenzamide",
+      "generic": "Trimethobenzamide",
+      "brands": [],
+      "score": 3
+    },
+    {
+      "id": "trimipramine",
+      "generic": "Trimipramine",
+      "brands": [
+        "Surmontil"
+      ],
+      "score": 3,
+      "class": "antidepressants",
+      "acbScore": 3,
+      "gabsScore": 3
+    },
+    {
+      "id": "triprolidine",
+      "generic": "Triprolidine",
+      "brands": [],
+      "score": 3,
+      "class": "antihistamines"
+    },
+    {
+      "id": "trospium",
+      "generic": "Trospium",
+      "brands": [
+        "Sanctura",
+        "Regurin"
+      ],
+      "score": 3,
+      "class": "urinary_incontinence",
+      "acbScore": 3,
+      "gabsScore": 2
+    },
+    {
+      "id": "umeclidinium",
+      "generic": "Umeclidinium",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "valproic-acid",
+      "generic": "Valproic acid",
+      "brands": [
+        "Depakote",
+        "Sodium Valproate"
+      ],
+      "score": 1
+    },
+    {
+      "id": "vancomycin",
+      "generic": "Vancomycin",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "venlafaxine",
+      "generic": "Venlafaxine",
+      "brands": [
+        "Effexor"
+      ],
+      "score": 1,
+      "class": "antidepressants",
+      "acbScore": 1,
+      "gabsScore": 1
+    },
+    {
+      "id": "ziprasidone",
+      "generic": "Ziprasidone",
+      "brands": [],
+      "score": 1,
+      "class": "antipsychotics"
+    },
+    {
+      "id": "zolmitriptan",
+      "generic": "Zolmitriptan",
+      "brands": [],
+      "score": 1
+    },
+    {
+      "id": "zuclopenthixol",
+      "generic": "Zuclopenthixol",
+      "brands": [],
+      "score": 1,
+      "class": "antipsychotics"
+    }
+  ]
+}
